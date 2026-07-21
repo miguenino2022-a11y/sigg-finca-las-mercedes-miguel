@@ -41,4 +41,4 @@ Miguel Angel Niño López
 Consulta el archivo [LICENSE](LICENSE) para el texto completo.
 
 ```
-
+Copyright (c) 2026 Zulma Salas```
